@@ -8,3 +8,4 @@ public class basic {
      System.out.println(year + " is not a leap year.");
    }
  }
+}
